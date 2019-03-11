@@ -1,3 +1,2 @@
 # calculadora-js
-Aplicação de teste
-Para execução deste arquivo basta baixá-lo e executar o arquivo index.html em seu navegador. 
+Para execução deste arquivo basta baixar o repositório e executar o arquivo index.html em seu navegador. 
